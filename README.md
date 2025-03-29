@@ -1,4 +1,4 @@
-# 👩🏻‍💻 Kaktus
+# 👨🏻‍💻 Kaktus
 
 **`Desenvolvedor FullStack`**
 
